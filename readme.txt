@@ -1,3 +1,9 @@
+## follow this video for full understanding 
+https://www.youtube.com/playlist?list=PLvz5lCwTgdXDNcXEVwwHsb9DwjNXZGsoy
+##download this files
+https://drive.google.com/file/d/1OK9jIeN8ErK-5sWHYvrsS9La2JNldMcL/view
+
+
 # Plant Disease Prediction System
 
 This project is an AI-driven system for predicting plant diseases using a trained TensorFlow model. The system uses Streamlit for the web interface and TensorFlow for the machine learning model.
