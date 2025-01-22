@@ -1,5 +1,5 @@
 ## follow this video for full understanding 
-https://www.youtube.com/playlist?list=PLvz5lCwTgdXDNcXEVwwHsb9DwjNXZGsoy
+https://youtu.be/TRo9EpnE7AI?si=jjlN92PKxAgWrOw7
 ##download this files
 https://drive.google.com/file/d/1OK9jIeN8ErK-5sWHYvrsS9La2JNldMcL/view
 
