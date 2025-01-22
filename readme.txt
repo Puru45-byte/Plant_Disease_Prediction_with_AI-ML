@@ -1,5 +1,5 @@
 
-# Plant Disease Prediction System
+#Plant Disease Prediction System
 
 This project is an AI-driven system for predicting plant diseases using a trained TensorFlow model. The system uses Streamlit for the web interface and TensorFlow for the machine learning model.
 
