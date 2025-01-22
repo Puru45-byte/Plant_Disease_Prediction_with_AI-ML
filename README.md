@@ -1,5 +1,5 @@
 
-# Plant Disease Prediction System
+## Plant Disease Prediction System
 
 This project is an AI-driven system for predicting plant diseases using a trained TensorFlow model. The system uses Streamlit for the web interface and TensorFlow for the machine learning model.
 
@@ -114,7 +114,7 @@ To use the Gemini API, you need to create an API key and save it in the appropri
 ## follow this video for full understanding 
 https://youtu.be/TRo9EpnE7AI?si=jjlN92PKxAgWrOw7
 
-##download this files
+## download this files
 https://drive.google.com/file/d/1OK9jIeN8ErK-5sWHYvrsS9La2JNldMcL/view
 
 
