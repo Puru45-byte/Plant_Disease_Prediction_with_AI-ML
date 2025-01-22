@@ -1,8 +1,3 @@
-## follow this video for full understanding 
-https://youtu.be/TRo9EpnE7AI?si=jjlN92PKxAgWrOw7
-##download this files
-https://drive.google.com/file/d/1OK9jIeN8ErK-5sWHYvrsS9La2JNldMcL/view
-
 
 # Plant Disease Prediction System
 
@@ -114,6 +109,15 @@ To use the Gemini API, you need to create an API key and save it in the appropri
     api_key = "your_api_key"
     api_secret = "your_api_secret"
     ```
+    ,
+
+## follow this video for full understanding 
+https://youtu.be/TRo9EpnE7AI?si=jjlN92PKxAgWrOw7
+
+##download this files
+https://drive.google.com/file/d/1OK9jIeN8ErK-5sWHYvrsS9La2JNldMcL/view
+
+
 ## Contributing
 Contributions are welcome! Please follow these steps to contribute:
 
@@ -126,3 +130,5 @@ Contributions are welcome! Please follow these steps to contribute:
 
 ## License
 This project is licensed under the MIT License.
+
+
